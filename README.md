@@ -38,11 +38,11 @@ Run `surge --help` to see the following overview of the `surge` command...
 
 ## CDN Features
 
-- Custom CNAME & custom SSL
+- Custom CNAME and custom SSL
 - Fallback 404.html pages
 - HTML5 mode 200.html pages
 - stays out of `git`s way
-- supports clean URLs && trailing slashes `/`
+- supports clean URLs and trailing slashes `/`
 - Implicit signup
 - supports CNAME files
 
